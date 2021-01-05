@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a react application to experiment with react capabilities, whilst learning about it. Some of the code might be replicates of already existing open-sourced code available to the public, however, to be fair, the name of the author will be mentioned in the comments.
+
+Any comments or feedback is greatly appreciated.
+
 ## Available Scripts
 
 In the project directory, you can run:
